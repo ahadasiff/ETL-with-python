@@ -1,4 +1,4 @@
-# ETL-with-python 
+# Bank data Project 
 Project for Cloud Data Engineering Roadmap
 Project 01 : Acquiring and processing information on world's largest banks
 Task 1: Logging function
